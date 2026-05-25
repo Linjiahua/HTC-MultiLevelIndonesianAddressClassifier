@@ -1,1 +1,1 @@
-# /S2TextHtc
+# S2TextHtc
